@@ -5,6 +5,7 @@ It's me and my children! <br>
 
 If you have a children, you have a happy life!
 
-Updating this portfolio...
-
+<hr>
+Updating this portfolio...<br>
 Coming Soon! Sorry, i don't have time in this moment.
+
