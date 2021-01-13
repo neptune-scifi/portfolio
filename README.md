@@ -4,8 +4,15 @@ It's me and my children! <br>
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQH_PQcZv6Ok_g/profile-displayphoto-shrink_200_200/0/1606619888161?e=1613001600&v=beta&t=5sizEuOn8eLkAjh8QWR2k7l8ME-SC6UrIz4BFVbaBqA">
 
 If you have a children, you have a happy life!
-
 <hr>
+<h1>About.me</h1>
+<img src="https://thumbs.gfycat.com/BlankBigKawala.webp">
+Hello! I'm specialist em Interface, UI, UX and Motion Design. Enthusiast in 3D Technology and AR/VR. I have +15 years old of experience and works to Magalu, Ogilvy, Listerine, Honda and others clients.
+
+<br> I know to use Photoshop, Figma, Css, JS & Css Animations, Cinema 4D, After Effects and Illustrator.
+
+<br> My Simple github Portfolio:
+
 <h1>Interface Design</h1>
 Title = Dentflex
 <br>Url = https://www.dentflex.com.br/
