@@ -9,21 +9,43 @@ If you have a children, you have a happy life!
 <h1>Interface Design</h1>
 Title = Dentflex
 <br>Url = https://www.dentflex.com.br/
-<br>Technologies = Photoshop, UX Content.
-
+<br>Technologies = Photoshop
+<br>Intelligence: UX Content, Kanban, Lean UX
 <p>&nbsp;</p>
 
-Title = Rabbats
-<br>Url = https://www.rabbats.com.br/
+Title = Repensa
+<br>Url = https://www.repensaenergia.com/
+<br>Technologies = Photoshop, Illustrator, Icon Design
+<br>Intelligence: Lean UX
+<p>&nbsp;</p>
+
+Title = Garcia Monteiro
+<br>Url = http://www.garciamonteiro.com.br/
 <br>Technologies = Photoshop, Illustrator
+<br>UX Design
+<p>&nbsp;</p>
+
+Title = Woson
+<br>Url = https://www.wosonlatam.com.br/
+<br>Technologies = Photoshop, Illustrator
+<br>Intelligence: Lean UX
+<p>&nbsp;</p>
+
+Title = Personal Alternativo
+<br>Url = http://personalalternativo.com.br/
+<br>Technologies = Photoshop, Illustrator, Figma, Wordpress
+<br>Intelligence: Lean UX, UX Design, UX Research, Product Design
+<p>&nbsp;</p>
+
+Title = Maria Holistica
+<br>Url = http://personalalternativo.com.br/
+<br>Technologies = Photoshop, Illustrator, Figma, Wordpress
+<br>Intelligence: Lean UX, UX Design, UX Research, Product Design
 
 <h1>High End Interface Design</h1>
 Title = Franca Fanatics
 <br>Url = https://francafanatics.com.br/ 
 <br>Technologies = Design System, Js Animations, Cinema 4D, Photoshop, Figma.
-
+<br>Intelligence: Virtual Reality, Product Design
 <p>&nbsp;</p>
 
-Title = Franca Fanatics
-<br>Url = https://francafanatics.com.br/ 
-<br>Technologies = Design System, Js Animations, Cinema 4D, Photoshop, Figma.
