@@ -7,9 +7,7 @@ If you have a children, you have a happy life!
 <hr>
 <h1>About.me</h1>
 <img src="https://thumbs.gfycat.com/BlankBigKawala.webp">
-Hello! I'm specialist em Interface, UI, UX and Motion Design. Enthusiast in 3D Technology and AR/VR. I have +15 years old of experience and works to Magalu, Ogilvy, Listerine, Honda and others clients.
-
-<br> I know to use Photoshop, Figma, Css, JS & Css Animations, Cinema 4D, After Effects and Illustrator.
+Hello! I'm specialist em Interface, UI, UX and Motion Design. Enthusiast in 3D Technology and AR/VR. I have +15 years old of experience and works to Magalu, Ogilvy, Listerine, Honda and others clients. <br> I know works with: Photoshop, Figma, Css, JS & Css Animations, Cinema 4D, After Effects and Illustrator.
 
 <br> My Simple github Portfolio:
 
