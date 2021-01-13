@@ -17,13 +17,13 @@ Title = Repensa
 <br>Url = https://www.repensaenergia.com/
 <br>Technologies = Photoshop, Illustrator, Icon Design
 <br>Intelligence: Lean UX
-<p>&nbsp;</p>
+<br>
 
 Title = Garcia Monteiro
 <br>Url = http://www.garciamonteiro.com.br/
 <br>Technologies = Photoshop, Illustrator
 <br>UX Design
-<p>&nbsp;</p>
+<br>
 
 Title = Woson
 <br>Url = https://www.wosonlatam.com.br/
@@ -38,14 +38,17 @@ Title = Personal Alternativo
 <p>&nbsp;</p>
 
 Title = Maria Holistica
-<br>Url = http://personalalternativo.com.br/
+<br>Url = https://mariaholistica.com.br/portal/
 <br>Technologies = Photoshop, Illustrator, Figma, Wordpress
 <br>Intelligence: Lean UX, UX Design, UX Research, Product Design
 
+<img src="https://i.gifer.com/7RRt.gif">
 <h1>High End Interface Design</h1>
 Title = Franca Fanatics
 <br>Url = https://francafanatics.com.br/ 
 <br>Technologies = Design System, Js Animations, Cinema 4D, Photoshop, Figma.
 <br>Intelligence: Virtual Reality, Product Design
 <p>&nbsp;</p>
+
+
 
